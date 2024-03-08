@@ -37,3 +37,4 @@ API -https://openweathermap.org
 
 ### Weather App Snapshot
 
+![weather-app](https://github.com/Anugrahas2001/weather-app/assets/153485221/21a134cc-89a1-40b7-967d-b02749bb1f2b)
